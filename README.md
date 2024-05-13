@@ -2,7 +2,7 @@
 
 **[Cross-Resolution Distillation for Efficient 3D Medical Image Registration](https://ieeexplore.ieee.org/document/9782430)**
 
-This repository is the implementation of the above paper, linked to [VIDAR Lab](https://ieeexplore.ieee.org/document/9782430)
+This repository is the implementation of the above paper, linked to [VIDAR Lab]([https://ieeexplore.ieee.org/document/9782430](https://vidar-ustc.github.io/biomedical-imaging/registration)
 
 
 ## Requirements
